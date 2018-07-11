@@ -4,9 +4,9 @@ RAINBOW_COLORS = [
   "light_cyan"
 ]
 
-def change_rainbow_colors
+def CHANGE_RAINBOW_COLORS
   # Write a solution that corrects the three colors in rainbow_colors, then returns the corrected array
-  RAINBOW_COLORS["yellow","default","light_cyan"].include("red","light_red","light_yellow")
+  CHANGE_RAINBOW_COLORS["yellow","default","light_cyan"].include("red","light_red","light_yellow")
 end
 
 
