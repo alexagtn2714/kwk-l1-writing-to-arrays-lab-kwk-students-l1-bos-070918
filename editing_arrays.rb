@@ -6,7 +6,7 @@ RAINBOW_COLORS = [
 
 def change_rainbow_colors
   # Write a solution that corrects the three colors in rainbow_colors, then returns the corrected array
-  rainbow_colors["yellow","default","light_cyan"].include()
+  rainbow_colors["yellow","default","light_cyan"].include("red","light_red","")
 end
 
 def add_colors
